@@ -3,4 +3,4 @@
 ## This project contains a script files
 
 
-<span style="color: red">`file`</span>
+<span style="color: red">file</span>
